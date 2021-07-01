@@ -39,11 +39,14 @@
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 </div>
-
 <br />
 
 ## My Statistics:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=phanlong2811&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/phanlong2811?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanlong2811&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/phanlong2811?tab=repositories)
+
 <!-- - 🤔 I’m looking for help with  -->
+
+## My Config:
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=phanlong2811&repo=dotfiles&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/phanlong2811/dotfiles)
