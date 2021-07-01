@@ -45,10 +45,6 @@
 
 <br />
 
-<img src="https://i.imgur.com/050f68o.png">
-
-<br />
-
 ## My Statistics:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=phanlong2811&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/phanlong2811?tab=repositories)
