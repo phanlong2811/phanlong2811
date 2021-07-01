@@ -3,7 +3,8 @@
 [![phanlong2811](https://img.shields.io/website?color=blue&label=phanlong2811&style=flat&up_message=Online&url=https://www.facebook.com/phanlong2811)](https://www.facebook.com/phanlong2811)
 [![Visitor Count](https://komarev.com/ghpvc/?username=phanlong2811&color=blue&logo=flat)](https://github.com/phanlong2811)
 [![Facebook](https://img.shields.io/badge/phanlong2811-grey?style=flat&logo=Facebook&logoColor=#0b86ee/)](https://wwww.facebook.com/phanlong2811)
-[![Instagram](https://img.shields.io/badge/phanlong2811-grey?style=flat&logo=Instagram&logoColor=e24e76)](https://www.instagram.com/phanlong2811/)
+[![Soundcloud](https://img.shields.io/badge/phanlong2811-grey?style=flat&logo=Soundcloud&logoColor=orange)](https://soundcloud.com/phanlong2811)
+[![Codeforces](https://img.shields.io/badge/phanlong2811-grey?style=flat&logo=Codeforces&logoColor=pink)](https://codeforces.com/profile/phanlong2811)
 
 <br>
 
