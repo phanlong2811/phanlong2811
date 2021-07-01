@@ -12,13 +12,10 @@
 <!-- - 👯 I’m looking to collaborate on JavaScript projects -->
 <!-- - 💬 Ask me about PHP, Jquery and JavaScript -->
 <!-- - 📫 How to reach me: <a href="www.facebook.com/phanlong2811">phanlong2811</a> -->
-<!-- - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon -->
-- 🔭 I’m a student from HUST <3
-- 🌱 I’m currently learning competitive programming
-<!-- - 👯 I’m looking to collaborate on JavaScript projects -->
-<!-- - 💬 Ask me about PHP, Jquery and JavaScript -->
-<!-- - 📫 How to reach me: <a href="www.facebook.com/phanlong2811">phanlong2811</a> -->
-<!-- - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon -->
+- 🔭 &nbsp; I’m a student from HUST <3
+- 🎓 &nbsp; Studying Mathematics and Informatics.
+- ✍️  &nbsp; Pursuing Competitive Programming and Music as hobbies/side hustles.
+- ⚡ &nbsp; Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
 <br>
 
