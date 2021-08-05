@@ -3,12 +3,12 @@
 
 | Data Structures | Insert | Find Max | Find Min | Delete  | Search  |  Space  |
 | --- | --- | --- | --- |--- |--- |--- |
-| Binary Search Tree (BST) | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(\log{n})$$ | $O(\log{n})$ | $$O(n)$$ |
-| Red Black Tree (RBT) | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(\log{n})$$ | $$O(n)$$ |
-| Linked List | $$O(1)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ |
-| Queue | $$O(1)$$ | $$O(n)$$ | $$O(n)$$ | $$O(\log{n})$$ | $$O(n)$$ | $$O(n)$$ |
-| Heap | $$O(\log{n})$$ | $$O(1)$$ | $$O(1)$$ | $$O(\log{n})$$ | $$O(n)$$ | $$O(n)$$ |
-| Unsorted Array | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ | $$O(n)$$ |
+| Binary Search Tree (BST) | $O(\log{n})$ | $O(\log{n})$ | $$O(\log{n})$ | $O(\log{n})$ | $O(\log{n})$ | $O(n)$ |
+| Red Black Tree (RBT) | $O(\log{n})$ | $O(\log{n})$ | $O(\log{n})$ | $O(\log{n})$ | $O(\log{n})$ | $O(n)$ |
+| Linked List | $O(1)$ | $O(n)$$ | $O(n)$ | $O(n)$ | $O(n)$ | $O(n)$ |
+| Queue | $O(1)$ | $O(n)$ | $$O(n)$ | $O(\log{n})$ | $O(n)$ | $O(n)$ |
+| Heap | $O(\log{n})$ | $O(1)$ | $O(1)$ | $O(\log{n})$ | $O(n)$ | $O(n)$ |
+| Unsorted Array | $O(n)$ | $O(n)$ | $O(n)$ | $O(n)$ | $O(n)$ | $O(n)$ |
 - Almost every space of data structures has a complexity of O(n). so we will not compare the storage space but only care about the complexity of the operations.
 - i. I will select BST, RBT, Heap to perform Insert, Find Max operations for the reasons :  
     - each operation ( including insert or find max) will need average at most $O(\log{n})$ per query
@@ -34,7 +34,7 @@
     - According to the problem we have : $f = 50$, $\max{k} =$ number of customers $= 10000$, so I will choose $n = f * \max{k} = 500000$
 
 - c. 
-```cpp=
+```cpp
 #include "bits/stdc++.h"
 
 class Customer {
